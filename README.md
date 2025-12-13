@@ -25,12 +25,13 @@ Here are some ideas to get you started:
 
 
 ## Experiences
+- (Dec. 2025 – Present) **Research Student**, *Manufacturing and Service Systems Lab*, Korea Advanced Institute of Science and Technology
 - (Apr. 2025 – Aug. 2025) **Research Student**, *Stochastic Optimization and Learning Laboratory*, Sungkyunkwan University  
   Study on *Hands-on Optimization*; exploration of L-shaped method using APL1P problems; research on Monte Carlo sampling methods for stochastic optimization; study on distributionally robust optimization (DRO); seminar presentations on contextual stochastic optimization.
-
 - (Sep. 2024 – Present) **Member**, *Academic Society of Industrial Systems Management Engineering*, Korea  
   Study and presentation on recent papers regarding categorical feature embedding methods; study and presentation on recent research related to gradient descent in multi-objective optimization.
 
 ## Awards & Honors
+- (Dec. 2025) **POSTECH OIBC Big Data Challenge 2025 — Grand Prize** (1st Place out of 140 teams), POSTECH & Solar on care & MOHAET
 - (Sep. 2025) **Optimization Grand Challenge 2025 – Challenge Prize** (5th Place out of 343 teams), KIIE & LG CNS  
 - (Oct. 2024) **Academic Excellence Scholarship**, Sungkyunkwan University
