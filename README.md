@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## Education
 - **Sungkyunkwan University** — Systems Management Engineering (B.S., Mar. 2021 – Present)  
-  GPA: 4.17 / 4.5
+  GPA: 4.17 / 4.5 (Major GPA: 4.38 / 4.5)
 
 ## Research Interests
 - Scheduling
