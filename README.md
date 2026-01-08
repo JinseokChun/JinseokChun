@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 ## Education
 - **Sungkyunkwan University** — Systems Management Engineering (B.S., Mar. 2021 – Present)  
-  GPA: 4.1 / 4.5
+  GPA: 4.17 / 4.5
 
 ## Research Interests
+- Scheduling
 - Combinatorial Optimization
-- Contextual Stochastic Optimization
 - Machine Learning  
 
 
@@ -30,6 +30,8 @@ Here are some ideas to get you started:
   Study on *Hands-on Optimization*; exploration of L-shaped method using APL1P problems; research on Monte Carlo sampling methods for stochastic optimization; study on distributionally robust optimization (DRO); seminar presentations on contextual stochastic optimization.
 - (Sep. 2024 – Present) **Member**, *Academic Society of Industrial Systems Management Engineering*, Korea  
   Study and presentation on recent papers regarding categorical feature embedding methods; study and presentation on recent research related to gradient descent in multi-objective optimization.
+- (May 2022 – Nov. 2023) Sergeant, Republic of Korea Army
+  GOP
 
 ## Awards & Honors
 - (Dec. 2025) **POSTECH OIBC Big Data Challenge 2025 — Grand Prize** (1st Place out of 140 teams), POSTECH & Solar on care & MOHAET
