@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Education
-- **Sungkyunkwan University** — Systems Management Engineering (B.S., Mar. 2021 – Present)  
-  GPA: 4.18 / 4.5 (Major GPA: 4.38 / 4.5)
+- **KAIST** — AX (M.S., Aug. 2026 – Present)
+  Manufacturing and Service Systems Lab
+- **Sungkyunkwan University** — Systems Management Engineering (B.S., Mar. 2021 – Aug. 2026)  
+  GPA: 4.19 / 4.5 (Major GPA: 4.38 / 4.5)
+  Magna Cum Laude
 
 ## Research Interests
 - Scheduling
