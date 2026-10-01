@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 - (May 2022 – Nov. 2023) **Sergeant**, *Republic of Korea Army*, GOP
 
 ## Awards & Honors
+- (Sep. 2026) **Next-Generation Engineer, IPESK**, Institute for Promotion of Engineering and Science of Korea
 - (Mar. 2026) **Academic Excellence Scholarship**, Sungkyunkwan University
 - (Dec. 2025) **Student Success & Creativity Scholarship**, Sungkyunkwan University
 - (Dec. 2025) **POSTECH OIBC Big Data Challenge 2025 — Grand Prize** (1st Place out of 140 teams), POSTECH & Solar on care & MOHAET
