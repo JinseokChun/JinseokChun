@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   Manufacturing and Service Systems Lab
 - **Sungkyunkwan University** — Systems Management Engineering (B.S., Mar. 2021 – Aug. 2026)  
   GPA: 4.19 / 4.5 (Major GPA: 4.38 / 4.5)
-  Magna Cum Laude
+  Magna Cumme Laude
 
 ## Research Interests
 - Scheduling
